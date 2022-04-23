@@ -4,15 +4,24 @@ Hi 👋 My name is Rafael Simionato
 Filmmaker and Programmer
 ------------------------
 
-I've studied computer programming since I was a kid out of curiosity to know how things worked
+My official jobs are practically all in the audiovisual in the production of films, series and soap operas, as an assistant director in Brazil in the last 10 years
 
-I first got to know HTML and CSS, and soon after, I started to study PHP, MySQL and JavaScript, because I noticed that they were interconnected in a way in the creation of websites and database systems, in addition, I felt the need to understand better also the APIs and with that, I also have knowledge of JSON The language I master the most is PHP, however, I know that languages ​​are just tools and for me, what really matters is understanding the logic of everything to successfully solve problems
+Despite working in this area, at the same time, I have studied computer programming since I was a child, out of curiosity to understand how things work
 
-The projects that I have developed so far, in the area of ​​software, are independent, and I officially never wanted to work for any company in the area while living in Brazil. My official jobs are practically all in the audiovisual in the production of films, series and soap operas, as an assistant director in Brazil in the last 10 years At the moment, I continue to deepen my studies of PHP, and Laravel, in addition to being very interested in the area of ​​cryptocurrencies, Blockchain, NFTs and Metaverse, in addition to Web3 For more information and partnerships, please feel free to contact us
+I first got to know HTML and CSS, and soon after, I started to study PHP, MySQL and JavaScript, because I noticed that they were interconnected in a way in the creation of websites and database systems, in addition, I felt the need to understand better also the APIs and with that, I also have knowledge of JSON
+
+The language I master the most is PHP, however, I know that languages ​​are just tools and for me, what really matters is understanding the logic of everything to successfully solve problems
+
+The projects that I have developed so far, in the area of ​​software, are independent, and I officially never wanted to work for any company in the area while living in Brazil
+
+I am currently available to work remotely with any company, however in person only in the Netherlands
+
+
+For more information and partnerships, please feel free to contact me
 
 Regards
 
-* 🌍  I'm based in Brindisi
+* 🌍  I'm based in Brindisi - Italy
 * ✉️  You can contact me at [simionatoscript@gmail.com](mailto:simionatoscript@gmail.com)
 * 🧠  I'm learning JSON, Laravel, React, Web3 and Dutch language :)
 * 🤝  I'm open to collaborating on Interesting projects
