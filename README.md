@@ -4,16 +4,6 @@ Hi 👋 My name is Rafael Simionato
 Filmmaker and Programmer
 ------------------------
 
-My official jobs are practically all in the audiovisual in the production of films, series and soap operas, as an assistant director in Brazil in the last 10 years
-
-Despite working in this area, at the same time, I have studied computer programming since I was a child, out of curiosity to understand how things work
-
-I first got to know HTML and CSS, and soon after, I started to study PHP, MySQL and JavaScript, because I noticed that they were interconnected in a way in the creation of websites and database systems, in addition, I felt the need to understand better also the APIs and with that, I also have knowledge of JSON
-
-The language I master the most is PHP, however, I know that languages ​​are just tools and for me, what really matters is understanding the logic of everything to successfully solve problems
-
-The projects that I have developed so far, in the area of ​​software, are independent, and I officially never wanted to work for any company in the area while living in Brazil
-
 I am currently available to work remotely with any company, however in person only in the Netherlands
 
 
