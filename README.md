@@ -4,9 +4,6 @@ Hi 👋 My name is Rafael Simionato
 Filmmaker and Programmer
 ------------------------
 
-I am currently available to work remotely with any company, however in person only in the Netherlands
-
-
 For more information and partnerships, please feel free to contact me
 
 Regards
