@@ -10,7 +10,7 @@ Regards
 
 * 🌍  I'm based in Brindisi - Italy
 * ✉️  You can contact me at [simionatoscript@gmail.com](mailto:simionatoscript@gmail.com)
-* 🧠  I'm learning JSON, React, Web3 and Dutch language :)
+* 🧠  I'm learning JSON, React and Dutch language :)
 * 🤝  I'm open to collaborating on Interesting projects
 * ⚡  Fiat currencies will end, and the world will only use cryptocurrencies, but sssshhhh, don't tell anyone
 
