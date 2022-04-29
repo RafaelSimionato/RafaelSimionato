@@ -4,9 +4,7 @@ Hi 👋 My name is Rafael Simionato
 Filmmaker and Programmer
 ------------------------
 
-For more information and partnerships, please feel free to contact me
 
-Regards
 
 * 🌍  I'm based in Brindisi - Italy
 * ✉️  You can contact me at [simionatoscript@gmail.com](mailto:simionatoscript@gmail.com)
