@@ -6,7 +6,7 @@ Filmmaker and Programmer
 
 
 
-* 🌍  I'm based in Brindisi - Italy
+* 🌍  I'm based in Utrecht - Netherlands
 * ✉️  You can contact me at [simionatoscript@gmail.com](mailto:simionatoscript@gmail.com)
 * 🧠  I'm learning JSON, React and Dutch language :)
 * 🤝  I'm open to collaborating on Interesting projects
