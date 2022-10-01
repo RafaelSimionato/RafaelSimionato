@@ -1,16 +1,15 @@
 Hi 👋 My name is Rafael Simionato
 =================================
 
-Filmmaker and Programmer
+Computer Programmeur
 ------------------------
 
 
 
-* 🌍  I'm based in Utrecht - Netherlands
+* 🌍  I'm based in Utrecht - Nederland
 * ✉️  You can contact me at [simionatoscript@gmail.com](mailto:simionatoscript@gmail.com)
 * 🧠  I'm learning JSON, React and Dutch language :)
 * 🤝  I'm open to collaborating on Interesting projects
-* ⚡  Fiat currencies will end, and the world will only use cryptocurrencies, but sssshhhh, don't tell anyone
 
 ### Skills
 
