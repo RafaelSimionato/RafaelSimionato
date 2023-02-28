@@ -1,18 +1,16 @@
 Hi 👋 My name is Rafael Simionato
 =================================
 
-Computer Programmeur
+Software Developer
 ------------------------
 
-Welcome, my name is Rafael Simionato, I`m an independent Computer Programmer
-
-I like to write codes and create Softwares and Systems. In my Repository you will find some of my applications, studies and works. The languages I use most in my projects are usually: PHP, JavaScript, Python, MySQL, HTML and CSS
+I like to write codes and create microSystems. In my Repository you will find some of my applications, studies and works. The tools I use most in my projects are usually: PHP, JavaScript, nodeJS, Python, MySQL, HTML and CSS
 
 
 
 * 🌍  I'm based in Utrecht - Nederland
 * ✉️  You can contact me at [simionatoscript@gmail.com](mailto:simionatoscript@gmail.com)
-* 🧠  Right now, I'm learning more about JSON, Laravel, PHP APIs, React Native and everything that involves Blockchain and Metaverse technologies whenever I have time  * I'm also studying the Dutch language :)
+* 🧠  I'm learning more about JSON, Laravel, PHP APIs, React Native and everything that involves artificial intelligence :)
 * 🤝  I'm open to collaborating on Interesting projects. If your company is serious about sustainability, creative and innovative, we may have a chance to work together
 
 ### Skills
