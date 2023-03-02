@@ -4,7 +4,7 @@ Hi 👋 My name is Rafael Simionato
 Software Developer
 ------------------------
 
-I like to write codes and create microSystems. In my Repository you will find some of my applications, studies and works. The tools I use most in my projects are usually: PHP, JavaScript, nodeJS, Python, MySQL, HTML and CSS
+I like to write codes and create microservices. In my Repository you will find some of my applications, studies and works. The tools I use most in my projects are usually: PHP, JavaScript, nodeJS, Python, MySQL, HTML and CSS
 
 
 
