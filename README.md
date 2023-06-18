@@ -4,13 +4,13 @@ Hi 👋 My name is Rafael Simionato
 Software Developer
 ------------------------
 
-I like to write codes! My repository contains a collection of my applications, studies, and works. My go-to tools for most of my projects include PHP, Laravel, JavaScript, Node.js, MySQL, HTML, and CSS.
+I like to write codes since I was a kid! My repository contains a collection of my applications, studies, and works. My go-to tools for most of my projects include PHP, Laravel, JavaScript, Node.js, MySQL, HTML, and CSS.
 
 
 
 * 🌍  I'm based in Utrecht - Nederland
 * ✉️  You can contact me at [simionatoscript@gmail.com](mailto:simionatoscript@gmail.com)
-* 🧠  I'm learning more about Laravel, React Native, and APIs with PHP and JavaScript :)
+* 🧠  I'm learning more about frameworks Laravel and React Native, also APIs with PHP and JavaScript :)
 * 🤝  I'm open to collaborating on Interesting projects. If your company is serious about sustainability, creative and innovative, we may have a chance to work together
 
 ### Skills
