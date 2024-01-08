@@ -1,10 +1,11 @@
 Hi 👋 My name is Rafael Simionato
 =================================
 
-Software Developer
+Software Engineer
 ------------------------
 
-My repository contains a collection of my applications, studies, and works. My go-to tools for most of my projects include PHP, Laravel, JavaScript, MySQL, HTML, CSS, Bootstrap and React.
+
+"My repository serves as a curated collection encompassing my range of applications, studies, and projects. For the majority of my endeavors, I rely on a comprehensive toolkit featuring PHP, Laravel, JavaScript, Python, MySQL, HTML, CSS, Bootstrap, React, and I also delve into the realm of 3D animations using Blender"
 
 
 
