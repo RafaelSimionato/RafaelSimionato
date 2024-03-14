@@ -5,14 +5,14 @@ Software Engineer
 ------------------------
 
 
-"My repository serves as a curated collection encompassing my range of applications, studies, and projects. For the majority of my endeavors, I rely on a comprehensive toolkit featuring PHP, Laravel, JavaScript, Python, MySQL, HTML, CSS, Bootstrap, React, and I also delve into the realm of 3D animations using Blender"
+"My repository serves as a curated collection encompassing my range of applications, studies, and projects. For the majority of my endeavors, I rely on a comprehensive toolkit featuring PHP, JavaScript, Python, MySQL, HTML, CSS, Bootstrap, React, and I also delve into the realm of 3D animations using Blender"
 
 
 
 * 🌍  I'm based in Utrecht - Nederland
 * ✉️  You can contact me at [simionatoscript@gmail.com](mailto:simionatoscript@gmail.com)
-* 🧠  I'm learning more about frameworks Laravel and React Native, also APIs with PHP and JavaScript :)
-* 🤝  I'm open to collaborating on Interesting projects. If your company is serious about sustainability, creative and innovative, we may have a chance to work together
+* 🧠  I'm learning more about Solidity, frameworks Laravel and React Native, also APIs with PHP and JavaScript :)
+* 🤝  I'm open to collaborating on Interesting projects. If your company is serious about sustainability, security, creative and innovative, we may have a chance to work together
 
 ### Skills
 
