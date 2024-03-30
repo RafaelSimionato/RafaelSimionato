@@ -5,7 +5,7 @@ Software Engineer
 ------------------------
 
 
-"My repository serves as a curated collection encompassing my range of applications, studies, and projects. For the majority of my endeavors, I rely on a comprehensive toolkit featuring PHP, JavaScript, React.js, IPFS (InterPlanetary File System), MySQL, HTML, CSS, Bootstrap, Docker and I also delve into the realm of 3D animations using Blender"
+"My repository serves as a curated collection encompassing my range of applications, studies, and projects. For the majority of my endeavors, I rely on a comprehensive toolkit featuring C, PHP, JavaScript, React.js, IPFS (InterPlanetary File System), Web3.js, MySQL, HTML, CSS, Bootstrap, Solidity, Docker and others... I also delve into the realm of 3D animations using Blender"
 
 
 
