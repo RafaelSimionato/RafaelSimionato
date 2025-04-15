@@ -11,8 +11,8 @@ Software Engineer
 
 * 🌍  I'm based in Utrecht - Nederland
 * ✉️  You can contact me at [simionatoscript@gmail.com](mailto:simionatoscript@gmail.com)
-* 🧠  I'm learning more about Solidity for Smart Contracts (Ethereum and Polygon), frameworks Laravel and React Native, also APIs with PHP and JavaScript :)
-* 🤝  I'm open to collaborating on Interesting projects. If your company is serious about sustainability, security, creative and innovative, we may have a chance to work together
+* 🧠  I'm learning more about Solidity for Smart Contracts (Ethereum and Polygon) :)
+* 🤝  I'm open to collaborating on Interesting projects.
 
 ### Skills
 
