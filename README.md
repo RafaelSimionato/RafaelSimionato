@@ -2,7 +2,7 @@ Hi 👋 My name is Rafael Simionato
 =================================
 
 **Software Engineer @ Looplijn**  
-Building **AI-powered websites, assistants, and business dashboards** — fast, secure, and scalable.
+Building **AI-powered websites, assistants, and business dashboards** fast, secure, and scalable.
 
 * 🌍  Based in **Utrecht, Netherlands**
 * ✉️  Contact: **[simionatoscript@gmail.com](mailto:simionatoscript@gmail.com)**
