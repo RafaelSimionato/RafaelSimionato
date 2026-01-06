@@ -6,21 +6,23 @@ Building **AI-powered websites, assistants, and business dashboards** — fast, 
 
 * 🌍  Based in **Utrecht, Netherlands**
 * ✉️  Contact: **[simionatoscript@gmail.com](mailto:simionatoscript@gmail.com)**
-* 🧠  Currently focused on **AI + automation** (OpenAI, LangChain, RAG, vector databases, voice, WhatsApp)
-* 🤝  Open to collaborating on interesting projects in **NL / Europe / North America**
+* 🧠  Currently focused on **AI, automation, and intelligent systems**
+* 🤝  Open to collaborating on projects in **NL / Europe / North America**
 
 ---
 
 ## What I’m building at Looplijn 🚀
 
-At **Looplijn**, we create intelligent digital systems that help businesses:
-- **capture leads** and reply instantly (AI Assistants)
-- **organize operations** (dashboards, CRM-like tools, automation)
-- **grow online** with high-performance websites (React + Tailwind CSS + Vercel)
+At **Looplijn**, I design and build intelligent digital systems that help businesses:
+
+- Capture and qualify leads automatically
+- Reply instantly via AI assistants (web & WhatsApp)
+- Organize operations with dashboards and automation
+- Scale online with high-performance websites
 
 ---
 
-## Tech Stack (Looplijn-ready) 🧩
+## Tech Stack 🧩
 
 ### Core
 <p align="left">
@@ -41,55 +43,48 @@ At **Looplijn**, we create intelligent digital systems that help businesses:
   <img src="https://img.shields.io/badge/Hugging%20Face-111?style=for-the-badge&logo=huggingface" />
 </p>
 
-### Messaging / Voice / Automation
+### Messaging / Voice
 <p align="left">
   <img src="https://img.shields.io/badge/Twilio-111?style=for-the-badge&logo=twilio" />
   <img src="https://img.shields.io/badge/WhatsApp%20Automation-111?style=for-the-badge&logo=whatsapp" />
-</p>
-
-### Also familiar with
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5" />
-  <img src="https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3" />
-  <img src="https://img.shields.io/badge/MySQL-111?style=for-the-badge&logo=mysql" />
-  <img src="https://img.shields.io/badge/PHP-111?style=for-the-badge&logo=php" />
-  <img src="https://img.shields.io/badge/Laravel-111?style=for-the-badge&logo=laravel" />
 </p>
 
 ---
 
 ## What I like to work on 🛠️
 
-- **AI Assistants** (web + WhatsApp) that actually help businesses, not gimmicks  
-- **RAG systems** (private knowledge bases, scoped access, vector search)
-- **Dashboards & internal tools** (automation, lead management, analytics)
-- **High-performance websites** (SEO, UX, accessibility, Core Web Vitals)
+- AI Assistants that actually solve business problems  
+- RAG systems with private knowledge bases  
+- Dashboards, automation & internal tools  
+- High-performance websites (SEO, UX, Core Web Vitals)
 
 ---
 
-## Featured Projects (add your repos here) ⭐
+## Featured Projects ⭐
 
-- **Looplijn AI Websites** — premium websites designed to convert  
-  `React + Tailwind CSS + Vercel`
+- **Looplijn AI Websites**  
+  Premium AI-enhanced websites built to convert  
+  `React · Tailwind CSS · Vercel`
 
-- **Looplijn AI Assistants** — web chat + WhatsApp workflows  
-  `OpenAI + LangChain + Twilio`
+- **Looplijn AI Assistants**  
+  Web & WhatsApp assistants with real workflows  
+  `OpenAI · LangChain · Twilio`
 
-- **Business Dashboards** — systems that organize leads & operations  
-  `Node.js + Express + API integrations`
+- **Business Dashboards**  
+  Lead management, automation & analytics  
+  `Node.js · Express · APIs`
 
-> Tip: Replace the text above with links to your real repos:
-> `- [Project Name](https://github.com/USER/REPO) — short description`
+> Tip: Replace these with real repo links later.
 
 ---
 
-## GitHub Stats 📈
+## GitHub Activity 📊
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=RafaelSimionato&show_icons=true&hide_border=true" />
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelSimionato&layout=compact&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=RafaelSimionato&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true&cache_seconds=1800"
+    alt="GitHub stats"
+  />
 </p>
 
 ---
@@ -97,24 +92,25 @@ At **Looplijn**, we create intelligent digital systems that help businesses:
 ## Socials
 
 <p align="left">
-  <a href="https://www.facebook.com/rafaelsimionato/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" />
+  <a href="https://www.facebook.com/rafaelsimionato/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" />
   </a>
-  <a href="https://www.github.com/RafaelSimionato" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+  <a href="https://github.com/RafaelSimionato" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" />
   </a>
-  <a href="http://www.instagram.com/rafaelsimionato/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
+  <a href="https://www.instagram.com/rafaelsimionato/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" />
   </a>
-  <a href="https://www.linkedin.com/in/rafael-simionato-415900114/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+  <a href="https://www.linkedin.com/in/rafael-simionato-415900114/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" />
   </a>
 </p>
 
 ---
 
-## Support Me
+## Support Me ☕
 
 <a href="https://www.buymeacoffee.com/simionato?new=1">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" />
 </a>
+
