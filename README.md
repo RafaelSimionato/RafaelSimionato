@@ -56,7 +56,7 @@ At **Looplijn**, I build modern, premium systems that help businesses:
 - **AI Assistants (Web + WhatsApp)** lead capture, support automation, workflow actions  
 - **Systems & Dashboards** CRM-style internal tools, analytics, operations
 
-> Add your real repo links here once pushed.
+> Add real repo links here once pushed.
 
 
 ---
