@@ -52,25 +52,12 @@ At **Looplijn**, I build modern, premium systems that help businesses:
 
 ## Featured Projects ⭐
 
-- **Looplijn Website (Vite + React + Tailwind)** — premium marketing site + multilingual SEO  
-- **AI Assistants (Web + WhatsApp)** — lead capture, support automation, workflow actions  
-- **Systems & Dashboards** — CRM-style internal tools, analytics, operations
+- **Looplijn Website (Vite + React + Tailwind)** premium marketing site + multilingual SEO  
+- **AI Assistants (Web + WhatsApp)** lead capture, support automation, workflow actions  
+- **Systems & Dashboards** CRM-style internal tools, analytics, operations
 
 > Add your real repo links here once pushed.
 
----
-
-## GitHub Activity 📊
-
-> If this card ever disappears, it’s usually a rate-limit/outage from the public stats host.
-> Best fix: deploy your own stats instance (I can guide you).
-
-<p align="left">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=RafaelSimionato&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true&cache_seconds=1800"
-    alt="GitHub stats"
-  />
-</p>
 
 ---
 
