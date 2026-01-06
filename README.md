@@ -1,18 +1,18 @@
 Hi 👋 My name is Rafael Simionato
 =================================
 
-Software Engineer
+Looplijn
 ------------------------
 
 
-"My repository serves as a curated collection encompassing my range of applications, studies, and projects. For the majority of my endeavors, I rely on a comprehensive toolkit featuring C, PHP, JavaScript, React.js, IPFS (InterPlanetary File System), Web3.js, MySQL, HTML, CSS, Bootstrap, Solidity, Docker and others... I also delve into the realm of 3D animations using Blender"
+"Software Engineer @looplijn | Creating intelligent digital systems powered by AI."
 
 
 
 * 🌍  I'm based in Utrecht - Nederland
 * ✉️  You can contact me at [simionatoscript@gmail.com](mailto:simionatoscript@gmail.com)
-* 🧠  I'm learning more about Solidity for Smart Contracts (Ethereum and Polygon) :)
-* 🤝  I'm open to collaborating on Interesting projects.
+* 🧠  I'm learning more about AI, LangChain, Pinecone, Twilio, Whisper, Hugging Face. :)
+* 🤝  I am open to collaborating on interesting projects in the Netherlands, the rest of Europe, and North America.
 
 ### Skills
 
