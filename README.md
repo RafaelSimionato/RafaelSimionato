@@ -2,29 +2,28 @@ Hi 👋 My name is Rafael Simionato
 =================================
 
 **Software Engineer @ Looplijn**  
-Building **AI-powered websites, assistants, and business dashboards** fast, secure, and scalable.
+Building **AI-powered websites, assistants, and business dashboards** — fast, secure, and scalable.
 
-* 🌍  Based in **Utrecht, Netherlands**
-* ✉️  Contact: **[simionatoscript@gmail.com](mailto:simionatoscript@gmail.com)**
-* 🧠  Currently focused on **AI, automation, and intelligent systems**
-* 🤝  Open to collaborating on projects in **NL / Europe / North America**
+- 🌍 Based in **Utrecht, Netherlands**
+- ✉️ Contact: **[simionatoscript@gmail.com](mailto:simionatoscript@gmail.com)**
+- 🧠 Focus: **AI Assistants, RAG, automation, dashboards, high-performance web**
+- 🤝 Open to collaborating in **NL / Europe / North America**
 
 ---
 
 ## What I’m building at Looplijn 🚀
 
-At **Looplijn**, I design and build intelligent digital systems that help businesses:
-
-- Capture and qualify leads automatically
-- Reply instantly via AI assistants (web & WhatsApp)
-- Organize operations with dashboards and automation
-- Scale online with high-performance websites
+At **Looplijn**, I build modern, premium systems that help businesses:
+- capture and qualify leads
+- reply instantly via AI (web chat + WhatsApp)
+- automate workflows and operations
+- scale with fast, SEO-ready websites
 
 ---
 
 ## Tech Stack 🧩
 
-### Core
+### Web / Backend
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript" />
   <img src="https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=node.js" />
@@ -43,7 +42,7 @@ At **Looplijn**, I design and build intelligent digital systems that help busine
   <img src="https://img.shields.io/badge/Hugging%20Face-111?style=for-the-badge&logo=huggingface" />
 </p>
 
-### Messaging / Voice
+### Messaging / Automation
 <p align="left">
   <img src="https://img.shields.io/badge/Twilio-111?style=for-the-badge&logo=twilio" />
   <img src="https://img.shields.io/badge/WhatsApp%20Automation-111?style=for-the-badge&logo=whatsapp" />
@@ -51,34 +50,20 @@ At **Looplijn**, I design and build intelligent digital systems that help busine
 
 ---
 
-## What I like to work on 🛠️
-
-- AI Assistants that actually solve business problems  
-- RAG systems with private knowledge bases  
-- Dashboards, automation & internal tools  
-- High-performance websites (SEO, UX, Core Web Vitals)
-
----
-
 ## Featured Projects ⭐
 
-- **Looplijn AI Websites**  
-  Premium AI-enhanced websites built to convert  
-  `React · Tailwind CSS · Vercel`
+- **Looplijn Website (Vite + React + Tailwind)** — premium marketing site + multilingual SEO  
+- **AI Assistants (Web + WhatsApp)** — lead capture, support automation, workflow actions  
+- **Systems & Dashboards** — CRM-style internal tools, analytics, operations
 
-- **Looplijn AI Assistants**  
-  Web & WhatsApp assistants with real workflows  
-  `OpenAI · LangChain · Twilio`
-
-- **Business Dashboards**  
-  Lead management, automation & analytics  
-  `Node.js · Express · APIs`
-
-> Tip: Replace these with real repo links later.
+> Add your real repo links here once pushed.
 
 ---
 
 ## GitHub Activity 📊
+
+> If this card ever disappears, it’s usually a rate-limit/outage from the public stats host.
+> Best fix: deploy your own stats instance (I can guide you).
 
 <p align="left">
   <img
@@ -92,17 +77,17 @@ At **Looplijn**, I design and build intelligent digital systems that help busine
 ## Socials
 
 <p align="left">
-  <a href="https://www.facebook.com/rafaelsimionato/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" />
+  <a href="https://www.facebook.com/rafaelsimionato/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" />
   </a>
-  <a href="https://github.com/RafaelSimionato" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" />
+  <a href="https://github.com/RafaelSimionato" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
   </a>
-  <a href="https://www.instagram.com/rafaelsimionato/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" />
+  <a href="http://www.instagram.com/rafaelsimionato/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
   </a>
-  <a href="https://www.linkedin.com/in/rafael-simionato-415900114/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" />
+  <a href="https://www.linkedin.com/in/rafael-simionato-415900114/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
   </a>
 </p>
 
@@ -113,4 +98,5 @@ At **Looplijn**, I design and build intelligent digital systems that help busine
 <a href="https://www.buymeacoffee.com/simionato?new=1">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" />
 </a>
+
 
