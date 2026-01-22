@@ -7,7 +7,7 @@ I build production-grade AI and SaaS systems focused on real-world usage, scalab
 Looplijn is a live product and represents my real-world approach to building complete AI platforms, not demos or exercises.
 
 - 🌍 Based in Utrecht, Netherlands  
-- ✉️ Contact: rafaelsimionato@looplijn.com  
+- ✉️ Contact: simionatoscript@gmail.com  
 - 🧠 Focus: AI assistants, RAG systems, automation pipelines, dashboards, and high-performance web platforms  
 - 🤝 Open to remote collaboration in Europe, North America, and globally  
 
@@ -59,16 +59,16 @@ Everything is built in pure code with modern stacks, strong architecture, and pr
 
 ## Featured Projects ⭐
 
-These are real systems, not exercises. Full repositories will be linked as they are published.
+Selected repositories below showcase the architecture and systems behind Looplijn.
 
-- **Looplijn Website**  
+- Looplijn Website  
   Vite, React, Tailwind  
   Premium marketing site, multilingual SEO, performance-first architecture  
 
-- **AI Assistants (Web + WhatsApp)**  
+- AI Assistants (Web and WhatsApp)  
   Lead capture, qualification, support automation, workflow actions  
 
-- **Systems and Dashboards**  
+- Systems and Dashboards  
   Internal CRM-style tools, analytics, operations platforms  
 
 ---
