@@ -1,32 +1,35 @@
-Hi 👋 My name is Rafael Simionato  
-===============================
+Hi 👋 My name is Rafael Simionato
+=================================
 
-Senior Product Engineer | Founder of Looplijn  
+Senior Product Engineer | SaaS Platform Architect | Founder of Looplijn
 
-I build production-grade AI and SaaS systems focused on real-world usage, scalability, and long-term maintainability.  
-Looplijn is a live product and represents my real-world approach to building complete AI platforms, not demos or exercises.
+I build production-grade web platforms focused on performance, scalability, and long-term maintainability.
 
-- 🌍 Based in Utrecht, Netherlands  
+Looplijn is a live product and represents how I design and evolve complete systems end to end, from frontend architecture to backend services, data modeling, deployment workflows, and access control.
+
+- 🌍 Based in Doorn, Utrecht, Netherlands 
 - ✉️ Contact: rafaelsimionato@looplijn.com  
-- 🧠 Focus: AI assistants, RAG systems, automation pipelines, dashboards, and high-performance web platforms  
-- 🤝 Open to remote collaboration in Europe, North America, and globally  
+- 🧠 Focus: web platforms, content systems, payments integration, analytics, and scalable architecture  
+- 🤝 Open to remote collaboration in Europe and North America  
 
 ---
 
-## What I’m building at Looplijn 🚀
+## What I Build
 
-At Looplijn, I design and develop premium AI-driven systems that help businesses:
+At Looplijn, I design and develop modern platforms that include:
 
-- Capture and qualify leads automatically  
-- Respond instantly using AI via web chat and WhatsApp  
-- Automate internal workflows and operations  
-- Scale with fast, SEO-ready, and conversion-focused websites  
+- Content-driven websites and dashboards
+- Access control and multi-user systems
+- Payments and subscription-ready architectures
+- High-performance frontend with strong UX standards
+- Secure backend services with PostgreSQL and row-level security
+- Deployment pipelines and CI/CD workflows on Vercel
 
-Everything is built in pure code with modern stacks, strong architecture, and production security standards.
+Everything is built in pure code with modern stacks and production standards.
 
 ---
 
-## Tech Stack 🧩
+## Tech Stack
 
 ### Web and Backend
 <p align="left">
@@ -40,36 +43,24 @@ Everything is built in pure code with modern stacks, strong architecture, and pr
   <img src="https://img.shields.io/badge/Supabase-111?style=for-the-badge&logo=supabase" />
 </p>
 
-### AI, Agents, and RAG
+### Databases and Systems
 <p align="left">
-  <img src="https://img.shields.io/badge/OpenAI-111?style=for-the-badge&logo=openai" />
-  <img src="https://img.shields.io/badge/LangChain-111?style=for-the-badge&logo=langchain" />
-  <img src="https://img.shields.io/badge/Pinecone-111?style=for-the-badge&logo=pinecone" />
-  <img src="https://img.shields.io/badge/Whisper-111?style=for-the-badge&logo=openai" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-111?style=for-the-badge&logo=huggingface" />
-</p>
-
-### Messaging and Automation
-<p align="left">
-  <img src="https://img.shields.io/badge/Twilio-111?style=for-the-badge&logo=twilio" />
-  <img src="https://img.shields.io/badge/WhatsApp%20Automation-111?style=for-the-badge&logo=whatsapp" />
+  <img src="https://img.shields.io/badge/PostgreSQL-111?style=for-the-badge&logo=postgresql" />
+  <img src="https://img.shields.io/badge/MySQL-111?style=for-the-badge&logo=mysql" />
 </p>
 
 ---
 
-## Featured Projects ⭐
+## Featured Work
 
-Selected repositories below showcase the architecture and systems behind Looplijn.
+My repositories showcase real platform architecture used in Looplijn, including:
 
-- Looplijn Website  
-  Vite, React, Tailwind  
-  Premium marketing site, multilingual SEO, performance-first architecture  
+- Marketing website with multilingual SEO and performance-first design
+- Backend services with secure data access and API structure
+- Dashboard and system foundations for multi-client platforms
+- Payment and access control ready structures
 
-- AI Assistants (Web and WhatsApp)  
-  Lead capture, qualification, support automation, workflow actions  
-
-- Systems and Dashboards  
-  Internal CRM-style tools, analytics, operations platforms  
+I prefer building real products over isolated demo projects.
 
 ---
 
@@ -77,17 +68,15 @@ Selected repositories below showcase the architecture and systems behind Looplij
 
 I focus on:
 
-- End-to-end ownership of systems  
-- Clear architecture and maintainable code  
-- Security and production readiness  
-- Building products that can be trusted, sold, and scaled  
-- Minimal complexity with maximum leverage  
-
-I prefer building real products over writing isolated code samples.
+- End-to-end ownership of systems
+- Clear architecture and maintainable code
+- Security and production readiness
+- Performance and user experience
+- Systems that can be trusted, sold, and scaled
 
 ---
 
-## Socials
+## Links
 
 <p align="left">
   <a href="https://github.com/RafaelSimionato" target="_blank" rel="noreferrer">
@@ -95,8 +84,5 @@ I prefer building real products over writing isolated code samples.
   </a>
   <a href="https://www.linkedin.com/in/rafael-simionato-415900114/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-  </a>
-  <a href="https://www.instagram.com/rafaelsimionato/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
   </a>
 </p>
